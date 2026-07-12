@@ -1,0 +1,10 @@
+{
+  "serverInfo": {
+    "name": "WeiflyCC AI Core",
+    "version": "0.2.0"
+  },
+  "capabilities": {
+    "tools": false,
+    "resources": false
+  }
+}

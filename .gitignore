@@ -1,0 +1,29 @@
+# Node
+node_modules/
+
+# Build
+dist/
+.wrangler/
+
+# Archives
+*.tar
+*.tar.gz
+*.zip
+*.7z
+*.rar
+
+# Backup
+*.bak
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Environment
+.env
+.env.*

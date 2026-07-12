@@ -1,0 +1,7 @@
+{
+  "name": "WeiflyCC MCP",
+  "version": "0.1.0",
+  "protocol": "MCP",
+  "description": "WeiflyCC AI Tool Registry",
+  "tools": []
+}

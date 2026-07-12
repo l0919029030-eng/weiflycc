@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "skills": [
+    {
+      "id": "chat",
+      "name": "AI Chat",
+      "status": "active"
+    }
+  ]
+}
